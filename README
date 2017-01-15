@@ -1,0 +1,20 @@
+
+Xi Cheng, 999872475
+Jun Ma, 912381574
+
+ECS165 HW4
+
+Please first create a database called test:
+  createdb test
+Then place all testing files in the file named Grades. And put Grades in the same directory as these python files, i.e., in the current directory, the following files should be here: 
+start_table.py
+load_data.py
+query.py
+Grades
+
+To create table:
+  python start_table.py
+To load data:
+  python load_data.py
+To do problem 3:
+  python query.py
